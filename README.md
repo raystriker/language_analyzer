@@ -13,8 +13,8 @@ Language Analyzer CLI is a Python-based command-line tool designed to analyze an
 This tool requires Python 3.6 or later. You can clone this repository or download the source code directly.
 
 ```bash
-git clone https://github.com/[your-username]/language-analyzer-cli.git
-cd language-analyzer-cli
+git clone https://github.com/raystriker/language_analyzer.git
+cd language-analyzer
 ```
 
 ## Usage
