@@ -26,7 +26,6 @@ def identify_language(file_name, other_types):
         '.php': 'PHP',
         '.go': 'Go',
         '.rb': 'Ruby',
-        '.txt': 'Text',
         '.log': 'Log',
         '.ini': 'INI',
         '.sql': 'SQL',
