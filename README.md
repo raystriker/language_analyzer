@@ -1,8 +1,8 @@
 
-# Language Analyzer CLI
+# Language Analyzer
 
 ## Overview
-Language Analyzer CLI is a Python-based command-line tool designed to analyze and report the programming languages used in the files within a given directory or ZIP archive. It provides an easy-to-use interface to quickly identify the distribution and percentage of various programming languages in a project.
+Language Analyzer is a Python-based command-line tool designed to analyze and report the programming languages used in the files within a given directory or ZIP archive. It provides an easy-to-use interface to quickly identify the distribution and percentage of various programming languages in a project.
 
 ## Features
 - Support for multiple programming languages.
